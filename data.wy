@@ -1,0 +1,24 @@
+base.air {
+
+}
+
+air.gust {
+    direction: 0;
+}
+
+base.vacuum {
+
+}
+
+base.object {
+    position: 0,0,0;
+}
+
+object.cat {
+    name: charlie;
+    age: 7;
+}
+
+cat.stray {
+    fur: ruffled;
+}
